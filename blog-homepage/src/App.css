@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+
+.article-holder{
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  
+ 
+
+}
+.article1-holder{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+}
+.content-title{
+    text-align: left;
+}
+.card-Wrap{
+  float: left;
+  width: 50%;
+}
+.card-content-holder{
+  float: right;
+  width: 50%;
+
+}
+
